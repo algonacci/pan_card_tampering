@@ -1,4 +1,8 @@
-##Step to run application
+![alt_text](https://github.com/algonacci/pan_card_tampering/blob/main/model%201.jpg?raw=true)
+
+
+
+## Step to run application
 - Step 1:	Create the copy of the project.
 - Step 2: Open command prompt and change your current path to folder where you can find 'app.py' file.
 - Step 3: Create environment by command given below
