@@ -1,4 +1,5 @@
 ![alt_text](https://github.com/algonacci/pan_card_tampering/blob/main/model%201.jpg?raw=true)
+![alt_text](https://github.com/algonacci/pan_card_tampering/blob/main/model%202.jpg?raw=true)
 
 
 
